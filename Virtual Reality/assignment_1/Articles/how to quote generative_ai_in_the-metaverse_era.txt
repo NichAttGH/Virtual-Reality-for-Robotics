@@ -1,0 +1,10 @@
+Zhihan Lv,
+Generative artificial intelligence in the metaverse era,
+Cognitive Robotics,
+Volume 3,
+2023,
+Pages 208-217,
+ISSN 2667-2413,
+https://doi.org/10.1016/j.cogr.2023.06.001.
+(https://www.sciencedirect.com/science/article/pii/S2667241323000198)
+Abstract: Generative artificial intelligence (AI) is a form of AI that can autonomously generate new content, such as text, images, audio, and video. Generative AI provides innovative approaches for content production in the metaverse, filling gaps in the development of the metaverse. Products such as ChatGPT have the potential to enhance the search experience, reshape information generation and presentation methods, and become new entry points for online traffic. This is expected to significantly impact traditional search engine products, accelerating industry innovation and upgrading. This paper presents an overview of the technologies and prospective applications of generative AI in the breakthrough of metaverse technology and offers insights for increasing the effectiveness of generative AI in creating creative content.
