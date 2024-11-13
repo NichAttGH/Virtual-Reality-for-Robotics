@@ -1,5 +1,5 @@
 # Virtual Reality
-## Assignment 1 - ESSAY ON METAVERSE & ROBOTICS
+## Assignment 1 - Essay on Metaverse & Robotics
 
 1. Give (or choose, by quoting it) a definition of the Metaverse.
 2. What are the pillars (hardware, software, market, economy, media, industry, education, etc..) that you consider absolutely necessary for the development of the Metaverse(s)?
