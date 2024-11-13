@@ -20,7 +20,9 @@
 - Delineation of the navigable area using cubic meshes with Hidden in Game properties and without casting shadows 
 - This will all need to be in single Level actor that will need to be set up as the opening map for the project.
 
-To see it, just download and run on Unreal Engine: [Assignment 2](https://mega.nz/file/wMAnzJab#_h5KmkUROUlhhRIrDt9IJ1lYMD_JH5J2zLUnSjOwAcc)
+If you want to try it, just download from here: [Assignment 2](https://mega.nz/file/wMAnzJab#_h5KmkUROUlhhRIrDt9IJ1lYMD_JH5J2zLUnSjOwAcc)
+
+<b>IMPORTANT</b>: To see it correctly, please runs on [Unreal Engine 4.27.2](https://www.unrealengine.com/en-US/download)
 
 ## Assignment 3 - Final Project
 
